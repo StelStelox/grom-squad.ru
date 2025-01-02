@@ -1,0 +1,19 @@
+{
+  "name": "grom-squad.ru",
+  "version": "0.0.1",
+  "description": "Website from Grom clan",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StelStelox/grom-squad.ru.git"
+  },
+  "author": "StelStelox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StelStelox/grom-squad.ru/issues"
+  },
+  "homepage": "https://github.com/StelStelox/grom-squad.ru#readme"
+}
