@@ -5,17 +5,10 @@ export default function Index() {
             <h1 className="text-5xl bg-neutral-900 text-lime-400 p-2 text-center rounded">
                 Welcome to the GROM clan website
             </h1>
-            <a 
-                href="https://discord.gg/fjNCjk4qAn" 
-                target="_blank" 
-                className="text-2xl bg-lime-400 hover:bg-neutral-900 rounded-lg px-6 py-2 mt-6"
-            >
+            <a href="https://discord.gg/fjNCjk4qAn" target="_blank" className="text-2xl bg-lime-400 hover:bg-neutral-900 rounded-lg px-6 py-2 mt-6 ring-1 ring-neutral-900 hover:ring-lime-400">
                 Вступить
             </a>
-            <a 
-                href="/info" 
-                className="bg-lime-400 hover:bg-neutral-900 rounded-lg px-4 py-2 mt-6"
-            >
+            <a href="/info" className="bg-lime-400 hover:bg-neutral-900 rounded-lg px-4 py-2 mt-6 ring-1 ring-neutral-900 hover:ring-lime-400">
                 Информация
             </a>
         </div>
