@@ -1,16 +1,16 @@
 export default function Info() {
     return(
         <div className=" flex flex-col items-center justify-center">
-            <h1 className="text-5xl bg-neutral-900 text-lime-400 p-2 rounded mt-6">О нас</h1>
-            <h3 className="mt-6 bg-neutral-900 p-2 ring-1 ring-lime-400">
+            <h1 className="text-5xl bg-neutral-900 text-lime-400 p-2 rounded-lg ring-1 ring-lime-400 mt-6">О нас</h1>
+            <h3 className="mt-6 bg-neutral-900 p-2 ring-1 ring-lime-400 rounded-lg">
                 ⚡ "ГРОМ" - основан 26 сентября 2013 года, клан принимал участие в таких игровых проектах как DayZ ZOS(2013-2014), DayZSIB(2014-2018), DayZ Steam(2016-2017, 2022) Arma 3(2018) PUBG Lite(2019-2020). Клан ГРОМ - один из масштабных, организованных и сильных кланов былого времени DayZ Standalone. Клан всегда участвовал во всех мероприятиях, таких как клановые войны, ивенты и турниры. За историю клана в нём побывало более 200 бойцов. 
 
                 В феврале 2024 года был основан клан GROM в игре Squad. Также наш коллектив играет в такие игры как DayZ, Escape From Tarkov, War Thunder и другие подобные игры на военную тематику. 
                 В клане на данный момент находится 50+ бойцов по игре Squad 
             </h3>
 
-            <h1 className="text-5xl bg-neutral-900 text-lime-400 p-2 rounded mt-20">Правила</h1>
-            <h3 className="mt-6 bg-neutral-900 p-2 ring-1 ring-lime-400">
+            <h1 className="text-5xl bg-neutral-900 text-lime-400 p-2 rounded-lg ring-1 ring-lime-400 mt-20">Правила</h1>
+            <h3 className="mt-6 bg-neutral-900 p-2 ring-1 ring-lime-400 rounded-lg">
                 <p className="text-lime-400 text-2xl">Общие правила клана.</p>
                 <p className="text-lime-400 text-xl mt-2">Цели и задачи:</p>
                 1.1. Основной задачей клана является объединение добропорядочных и адекватных участников игры. <br />
